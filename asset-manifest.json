@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RZJD/static/css/main.5e9b566a.css",
-    "main.js": "/RZJD/static/js/main.98a27289.js",
+    "main.js": "/RZJD/static/js/main.9ac8eb8a.js",
     "static/js/415.4d6acbeb.chunk.js": "/RZJD/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/RZJD/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/RZJD/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/RZJD/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/RZJD/index.html",
     "main.5e9b566a.css.map": "/RZJD/static/css/main.5e9b566a.css.map",
-    "main.98a27289.js.map": "/RZJD/static/js/main.98a27289.js.map",
+    "main.9ac8eb8a.js.map": "/RZJD/static/js/main.9ac8eb8a.js.map",
     "415.4d6acbeb.chunk.js.map": "/RZJD/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/RZJD/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e9b566a.css",
-    "static/js/main.98a27289.js"
+    "static/js/main.9ac8eb8a.js"
   ]
 }
