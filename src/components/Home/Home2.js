@@ -16,40 +16,68 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              Mucho gusto, <span className="purple"> ¡Permíteme </span> presentarme!
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              Soy ingeniero mecatrónico y desarrollador de software, apasionado por la ingeniería, el diseño y la innovación tecnológica. Me motiva crear soluciones que integren accesibilidad y sustentabilidad, buscando un impacto positivo en cada proyecto.
               <br />
-              <br />I am fluent in classics like
+              <br />Actualmente, me dedico al
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> desarrollo de software para el sector privado, </b>
               </i>
+              diseñando e implementando soluciones tecnológicas a la medida, enfocadas en la eficiencia y la innovación.
               <br />
-              <br />
-              My field of Interest's are building new &nbsp;
+              <br />Tengo habilidades para&nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">el trabajo en equipo, el aprendizaje continuo y la adaptación a distintos entornos.  </b> Soy {" "}
                 <b className="purple">
-                  Blockchain.
+                proactivo, orientado a objetivos 
                 </b>
+                {" "} y siempre busco nuevos retos para seguir creciendo profesionalmente.
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+            Además, cuento con experiencia en diversas áreas:
+            <br />
+            <br />
+            <ul style={{ listStyleType: "disc", paddingLeft: "20px" }}>
+              <li>
+                <b>Desarrollo Web:</b>{" "}
+                <i>
+                  <b className="purple">HTML5, JavaScript, CSS3, React</b>
+                </i>
+              </li>
+              <li>
+                <b>Desarrollo de Apps:</b>{" "}
+                <i>
+                  <b className="purple">Kotlin, Swift, React Native, Expo</b>
+                </i>
+              </li>
+              <li>
+                <b>Lenguajes de Programación:</b>{" "}
+                <i>
+                  <b className="purple">Python, JavaScript</b>
+                </i>
+              </li>
+              <li>
+                <b>Diseño:</b>{" "}
+                <i>
+                  <b className="purple">Illustrator, Photoshop, Figma, Inventor</b>
+                </i>
+              </li>
+              <li>
+                <b>Herramientas y Tecnologías:</b>{" "}
+                <i>
+                  <b className="purple">Git, Miro</b>
+                </i>
+              </li>
+              <li>
+                <b>Otros:</b>{" "}
+                <i>
+                  <b className="purple">Gestión de Inventarios Físicos, Venta y Contacto de Proveedores Internacionales, Manejo de Paquetería Office, Análisis de Procesos y Realización de Mantenimiento Preventivo para Maquinaria</b>
+                </i>
+              </li>
+            </ul>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -87,7 +115,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/raymundo-daniel-zamora-juarez/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
