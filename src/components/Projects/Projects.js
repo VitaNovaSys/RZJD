@@ -4,10 +4,10 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import editor from "../../Assets/Projects/capturaRT.PNG";
+import chatify from "../../Assets/Projects/pumamovilcap.jpg";
 import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import bitsOfCode from "../../Assets/Projects/attcap.jpg";
 
 function Projects() {
   return (
@@ -15,20 +15,20 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          Mis Proyectos <strong className="mustard">Recientes </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          Conoce un poco de lo que he hecho recientemente. 🐱
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="PumaMóvil"
+              description="La aplicación PumaMóvil analiza datos de movilidad para ofrecer rutas mas eficientes y sostenibles, así como proporciona seguimiento en tiempo real en Ciudad Universitaria."
+             // ghLink="https://github.com/soumyajit4419/Chatify"
+              demoLink="https://pumamovil.c3.unam.mx/"
             />
           </Col>
 
@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Mi AT&T"
+              description="Aplicación de autoservicio que permite a los usuarios consultar información clave sobre su servicio contratado con AT&T México. Colaboré en el área de accesibilidad, optimizando la experiencia para personas con discapacidades mediante mejoras en la navegación y usabilidad."
+              //ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              demoLink="https://www.att.com.mx/servicios/mi-att.html"
             />
           </Col>
 
@@ -47,10 +47,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="RifaTech"
+              description="RifaTech es un servicio de creación páginas personalizadas para rifas, organiza sorteos digitales de manera rápida y segura."
+              //ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://vnrifatech.com/"             
             />
           </Col>
 
