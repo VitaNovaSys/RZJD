@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/RZJD/static/css/main.f57aa013.css",
-    "main.js": "/RZJD/static/js/main.a4aa9043.js",
+    "main.js": "/RZJD/static/js/main.f44d5e13.js",
     "static/js/415.4d6acbeb.chunk.js": "/RZJD/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/RZJD/static/js/787.1ed0c42c.chunk.js",
     "static/media/mayoneso.png": "/RZJD/static/media/mayoneso.72be60322b16c0b7b50c.png",
     "static/media/leaf.png": "/RZJD/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/RZJD/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/RZJD/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/capturaRT.PNG": "/RZJD/static/media/capturaRT.ccd661c6973eea3c363c.PNG",
     "static/media/CVGIT.pdf": "/RZJD/static/media/CVGIT.4c11e90421bb2404f095.pdf",
-    "static/media/codeEditor.png": "/RZJD/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/RZJD/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/attcap.jpg": "/RZJD/static/media/attcap.efcb3ec6fa07d792e7f4.jpg",
     "static/media/home-main.svg": "/RZJD/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/RZJD/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/pumamovilcap.jpg": "/RZJD/static/media/pumamovilcap.e8298b30a2d4d49e9877.jpg",
     "static/media/logoZJRD.png": "/RZJD/static/media/logoZJRD.41b697a466fc330cf377.png",
-    "static/media/chatify.png": "/RZJD/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/home-bg.jpg": "/RZJD/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/RZJD/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/RZJD/index.html",
     "main.f57aa013.css.map": "/RZJD/static/css/main.f57aa013.css.map",
-    "main.a4aa9043.js.map": "/RZJD/static/js/main.a4aa9043.js.map",
+    "main.f44d5e13.js.map": "/RZJD/static/js/main.f44d5e13.js.map",
     "415.4d6acbeb.chunk.js.map": "/RZJD/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/RZJD/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f57aa013.css",
-    "static/js/main.a4aa9043.js"
+    "static/js/main.f44d5e13.js"
   ]
 }
