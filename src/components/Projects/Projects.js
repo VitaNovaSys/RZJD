@@ -53,7 +53,7 @@ function Projects() {
               demoLink="https://vnrifatech.com/"             
             />
           </Col>
-
+{/*}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={leaf}
@@ -87,6 +87,7 @@ function Projects() {
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
+          */}
         </Row>
       </Container>
     </Container>
