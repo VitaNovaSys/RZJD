@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RZJD/static/css/main.f57aa013.css",
-    "main.js": "/RZJD/static/js/main.bf7ba52a.js",
+    "main.js": "/RZJD/static/js/main.f844e16a.js",
     "static/js/415.4d6acbeb.chunk.js": "/RZJD/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/RZJD/static/js/787.1ed0c42c.chunk.js",
     "static/media/mayoneso.png": "/RZJD/static/media/mayoneso.72be60322b16c0b7b50c.png",
@@ -9,7 +9,7 @@
     "static/media/emotion.png": "/RZJD/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/RZJD/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/capturaRT.PNG": "/RZJD/static/media/capturaRT.ccd661c6973eea3c363c.PNG",
-    "static/media/CVGIT.pdf": "/RZJD/static/media/CVGIT.4c11e90421bb2404f095.pdf",
+    "static/media/CV 2.0.pdf": "/RZJD/static/media/CV 2.0.c0e7aeddcd32c0c2165a.pdf",
     "static/media/attcap.jpg": "/RZJD/static/media/attcap.efcb3ec6fa07d792e7f4.jpg",
     "static/media/home-main.svg": "/RZJD/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/RZJD/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -19,12 +19,12 @@
     "static/media/pre.svg": "/RZJD/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/RZJD/index.html",
     "main.f57aa013.css.map": "/RZJD/static/css/main.f57aa013.css.map",
-    "main.bf7ba52a.js.map": "/RZJD/static/js/main.bf7ba52a.js.map",
+    "main.f844e16a.js.map": "/RZJD/static/js/main.f844e16a.js.map",
     "415.4d6acbeb.chunk.js.map": "/RZJD/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/RZJD/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f57aa013.css",
-    "static/js/main.bf7ba52a.js"
+    "static/js/main.f844e16a.js"
   ]
 }
