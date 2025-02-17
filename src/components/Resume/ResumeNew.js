@@ -14,7 +14,7 @@ function ResumeNew() {
   useEffect(() => {
     setWidth(window.innerWidth);
   }, []);
-
+//Se actualizó para que se lea el pdf en la página
   return (
     <div>
       <Container fluid className="resume-section">
